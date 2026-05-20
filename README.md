@@ -163,16 +163,3 @@ nn.backward(gradient, lr=0.01)  # backward pass
 
 ---
 
-## What's Next
-
-This project establishes the mathematical foundation. The next phase builds on it:
-
-- **Project 2** — Rebuilding in PyTorch: same architecture, understanding what the framework abstracts
-- **Project 3** — Convolutional Neural Networks for image recognition
-- **Project 4** — Domain-specific application (quantitative finance, time series)
-
-The goal is not to avoid frameworks — it's to use them with full understanding of what they do underneath.
-
----
-
-*First-year CSE student, Jadavpur University. Built as a foundation for machine learning, not a shortcut around it.*
