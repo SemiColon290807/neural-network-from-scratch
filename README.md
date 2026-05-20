@@ -2,7 +2,7 @@
 
 > Built using only NumPy. No PyTorch. No TensorFlow. 
 
-A fully functional neural network implemented from first principles — every operation derived mathematically and coded by hand. Trained on MNIST handwritten digit recognition, achieving **96.93% test accuracy**.
+A fully functional neural network implemented from first principles — every operation derived mathematically and coded by hand. Trained on MNIST handwritten digit recognition, achieving **96.96% test accuracy**.
 
 ---
 
