@@ -88,14 +88,6 @@ $$\frac{\partial L}{\partial z} = \hat{y} - y$$
 
 This is derived by expanding the chain rule through both functions simultaneously — the softmax Jacobian and cross-entropy derivative cancel, leaving only the prediction error.
 
-**Verified learning on random data:**
-
-| | Loss |
-|---|---|
-| Start | 2.47 |
-| After 100 steps | 0.26 |
-| Reduction | ~90% |
-
 ---
 
 ### Phase 4 — MNIST Training
@@ -118,10 +110,10 @@ Trained on the full MNIST dataset of 70,000 handwritten digit images.
 
 | Epoch | Loss | Test Accuracy |
 |---|---|---|
-| 1 | 1192.96 | 90.21% |
-| 5 | 332.62 | 94.52% |
-| 10 | 205.41 | 95.99% |
-| 20 | 109.03 | **96.93%** |
+| 1 | 1192.96 | 90.29% |
+| 5 | 332.62 | 94.66% |
+| 10 | 205.41 | 96.07% |
+| 20 | 109.03 | **96.96%** |
 
 ---
 
