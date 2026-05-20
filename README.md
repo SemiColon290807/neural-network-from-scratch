@@ -8,9 +8,7 @@ A fully functional neural network implemented from first principles — every op
 
 ## Why This Project
 
-*[Your section here — why you chose this as your first project, why from scratch instead of frameworks, what you wanted to understand after finishing. 3-5 sentences in your own voice.]*
-
-The philosophy behind this project is simple: before using a tool, understand what it does. Every ML practitioner uses PyTorch or TensorFlow. Very few can explain what happens inside them. This project is proof of that understanding.
+I came into this project sceptical about how to approach machine learning — whether to study theory first or build immediately. I chose to build. With no prior Python experience, I picked up the language on the go while implementing every concept from scratch. The goal was simple: understand what actually happens inside a neural network, not just how to call library functions. This project is proof of that understanding and the foundation for everything that comes next.
 
 ---
 
